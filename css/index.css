@@ -1,7 +1,11 @@
 main h2{
     font-size: 10px;
 }
-
+.homeimagen{
+    text-align: right;
+    margin: 5%;
+    width: 40%;
+}
 
 
 .tituloserie{
