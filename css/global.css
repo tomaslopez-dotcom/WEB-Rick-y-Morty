@@ -1,0 +1,19 @@
+.navegador{
+    margin-top: 35px;
+    text-align: right;
+    margin-right: 65px
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;      
+  color: black;              
+  font-weight: bold;          
+  font-size: 15px;   
+}
+.titulo{
+    text-align: center;
+    font-size: 80px;
+}
+.parrafos1{
+    font-size: 15px;
+}

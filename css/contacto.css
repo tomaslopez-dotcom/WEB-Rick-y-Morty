@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+
+    background-image:url(/imagenes/rick-y-morty-portal-dimensional\ parte\ contacto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+body{
+    color: white;
+}
+.tituloserie{
+    margin: 5%;
+    width: 40%;
+
+    font-size: 80px;
+}
+main{
+    margin: 5%;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;      
+  color: white;              
+  font-weight: bold;          
+  font-size: 15px; } 
