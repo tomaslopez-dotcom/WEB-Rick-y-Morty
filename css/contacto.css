@@ -12,17 +12,17 @@ body{
     color: white;
 }
 .tituloserie{
-    margin: 5 %;
-    width: 40 %;
+    margin: 5%;
+    width: 40%;
 
-    font-size: 80 px;
+    font-size: 80px;
 }
 main{
-    margin: 5 %;
+    margin: 5%;
 }
 nav a{
     display: inline-block;
     text-decoration: none;      
   color: white;              
   font-weight: bold;          
-  font-size: 15 px; } 
+  font-size: 15px; } 
