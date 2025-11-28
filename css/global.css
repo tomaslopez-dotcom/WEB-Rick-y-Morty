@@ -1,7 +1,4 @@
-header{
-    height: 40px;
-    background-color: aqua;
-}
+
 * {
   padding: 0;
   margin: 0;
@@ -53,7 +50,7 @@ li {
 }
 
 .list-items:hover:before {
-  transform: scaleY(1.2);
+  transform: scaleY(2);
   opacity: 1;
 }
 
@@ -77,7 +74,11 @@ li {
 .list-items:hover {
   color: #fff;
 }
-
+header{
+    height: 50px;
+    background-color: aqua;
+    margin-top: 0%;
+}
 
 nav a{
     display: inline-block;
