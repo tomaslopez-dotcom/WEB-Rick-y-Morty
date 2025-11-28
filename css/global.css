@@ -76,7 +76,8 @@ li {
 }
 header{
     background-color: aqua  ;
-    width: 10%;
+    display: flex;
+    flex: content;
 }
 
 
