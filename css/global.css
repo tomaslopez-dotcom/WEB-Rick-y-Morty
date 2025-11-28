@@ -74,11 +74,7 @@ li {
 .list-items:hover {
   color: #fff;
 }
-header{
-    height: 50px;
-    background-color: aqua;
-    margin-top: 0%;
-}
+
 
 nav a{
     display: inline-block;
