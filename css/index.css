@@ -1,8 +1,10 @@
-.fondo1{
-    text-align: center;
-    margin: 0%;
-    width: 0%;
+body {
+  background-image: url("../imagenes/fondo home.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
+
 
 main h2{
     font-size: 10px;
