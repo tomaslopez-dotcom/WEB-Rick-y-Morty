@@ -1,9 +1,9 @@
-body {
+main {
   background-image: url("../imagenes/fondo home.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  margin-top: 200px;
+
 }
 
 
