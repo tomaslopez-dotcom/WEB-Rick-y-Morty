@@ -6,12 +6,7 @@
     background-image: url(../imagenes/fondo\ formulario.jpg);
     background-size: cover;
 }
-input{
-    color: white;
-    padding: 15px;
-   font-family: sans-serif;
-   border-radius: 15px;
-}
+
 .relleno,{
      padding: 15px;
    font-family: sans-serif;
@@ -37,4 +32,9 @@ fieldset{
 }
 input{
     font-size: 2rem ;
+    color: white;
+    padding: 15px;
+   font-family: sans-serif;
+   border-radius: 15px;
     }
+    
