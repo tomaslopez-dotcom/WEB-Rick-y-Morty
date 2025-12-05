@@ -12,12 +12,12 @@
 }
 form{
     border: 2px solid whithe;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(30px);
     width: 45%;
     max-width: 800px;
     margin: 0 auto;
     font-size: 2rem;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 fieldset{
