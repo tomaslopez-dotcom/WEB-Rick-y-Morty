@@ -7,7 +7,7 @@
     background-size: cover;
 }
 
-.relleno,{
+.relleno,input{
      padding: 15px;
    font-family: sans-serif;
    border-radius: 15px;
@@ -30,11 +30,8 @@ fieldset{
     flex-direction: column;
     
 }
-input{
-    font-size: 2rem ;
+label{
     color: white;
-    padding: 15px;
-   font-family: sans-serif;
-   border-radius: 15px;
-    }
+}
+
     
