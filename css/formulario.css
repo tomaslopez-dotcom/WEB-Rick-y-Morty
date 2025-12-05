@@ -1,4 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.relleno, input{
+    padding: 15px;
+   font-family: sans-serif;
+}
+form{
+    border: 2px solid whithe;
+    backdrop-filter: blur(10px);
+    width: 45%;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 2rem;
+    border-radius: 5px;
+
+}
+body{
+    background-image: url(../imagenes/fondo\ formulario.jpg);
+}
 fieldset{
     display: flex;
     flex-direction: column;
+    
 }
+input{
+    font-size: 2rem ;
+    }
