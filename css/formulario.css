@@ -32,5 +32,10 @@ fieldset{
 label{
     color: white;
 }
-
+legend{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
     
