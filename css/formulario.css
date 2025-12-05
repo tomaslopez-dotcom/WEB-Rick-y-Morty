@@ -1,48 +1,37 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
 }
-
 .fondoformulario{
     background-image: url(../imagenes/fondo\ formulario.jpg);
     background-size: cover;
-    background-position: center;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-
-.formulario{
-    width: 90%;
-    max-width: 450px;
-    padding: 30px;
-    border-radius: 20px;
-
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(20px);
-
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    color: white;
+.relleno,input{
+     padding: 15px;
+   font-family: sans-serif;
+   border-radius: 15px;
+   
+  
 }
-
-
-.formulario h2{
-    text-align: center;
-    margin-bottom: 20px;
+form{
+    border: 2px solid whithe;
+    backdrop-filter: blur(30px);
+    width: 45%;
+    max-width: 800px;
+    margin: 0 auto;
     font-size: 2rem;
+    border-radius: 20px;
+   
 }
 
-label{
+fieldset{
     display: flex;
     flex-direction: column;
-    gap: 5px;
-    margin-bottom: 20px;
+    
+}
+label{
     color: white;
-    font-size: 1.2rem;
 }
 
     
