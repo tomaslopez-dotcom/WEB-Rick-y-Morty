@@ -2,6 +2,13 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-image: url(../imagenes/fondo\ formulario.jpg);
+    background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+}
 .relleno, input{
     padding: 15px;
    font-family: sans-serif;
@@ -15,9 +22,7 @@ form{
     font-size: 2rem;
     border-radius: 5px;
 }
-body{
-    background-image: url(../imagenes/fondo\ formulario.jpg);
-}
+
 fieldset{
     display: flex;
     flex-direction: column;
