@@ -2,12 +2,8 @@
     margin: 0;
     padding: 0;
 }
-body{
+.fondoformulario{
     background-image: url(../imagenes/fondo\ formulario.jpg);
-    background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-height: 100vh;
 }
 .relleno, input{
     padding: 15px;
