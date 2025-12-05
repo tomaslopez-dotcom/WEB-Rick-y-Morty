@@ -8,8 +8,11 @@
 }
 input{
     color: white;
+    padding: 15px;
+   font-family: sans-serif;
+   border-radius: 15px;
 }
-.relleno, input{
+.relleno,{
      padding: 15px;
    font-family: sans-serif;
    border-radius: 15px;
